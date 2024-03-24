@@ -22,8 +22,8 @@ function MyApp(props) {
   return (
     <>
       <Head>
-        <title>Asha Abdullahi</title>
-        <meta name="description" content="Asha Abdullahi Porfolio Website" />
+        <title>Feysal Abdi Dahir</title>
+        <meta name="description" content="Feysal Abdi Dahir Porfolio Website" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
 
